@@ -201,16 +201,3 @@ if test_mode:
     fig.savefig('./VAE/pos_samples.png')
 
 
-    a=1
-
-
-
-
-
-
-
-
-# vae.save_weights('VAE\easy_checkpoint')
-
-
-a=1
